@@ -1,0 +1,9 @@
+Flask==3.0.0
+Werkzeug==3.0.1
+inference-sdk==0.51.3
+Pillow==11.3.0
+opencv-python==4.10.0.84
+supervision==0.25.1
+numpy==2.2.6
+requests==2.32.4
+gunicorn==21.2.0
